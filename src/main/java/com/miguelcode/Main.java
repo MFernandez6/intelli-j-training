@@ -4,7 +4,7 @@ import com.miguelcode.model.Product;
 
 public class Main {
     public static void main(String[] args) {
-        String helloWorld = "goodbye bitches";
+        String helloWorld = "updating all the github integration!!";
         System.out.println(helloWorld + "!!!");
 
         Product product = new Product("Keyboard");
